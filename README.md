@@ -1,3 +1,3 @@
-# real-time-chat
+# chat
 
 fastapi
